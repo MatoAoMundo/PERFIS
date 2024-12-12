@@ -56,7 +56,7 @@
     <li><a href="https://www.instagram.com/shayane.ferreira_" target="_blank">Shayane</a></li>
     <li><a href="https://www.instagram.com/lucaspereirasilva_24" target="_blank">Lucas</a></li>
     <li><a href="https://www.instagram.com/dhiorgid_" target="_blank">Dhiorgid</a></li>
-    <li><a href="https://www.instagram.com/7vagner" target="_blank">Vagner (Eu!)</a></li>
+    <li><a href="https://www.instagram.com/7vagner" target="_blank">Vagner</a></li>
   </ul>
   <footer>
     Obrigado pelo apoio e por acompanhar essa jornada!
