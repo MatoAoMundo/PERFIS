@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Acompanhe no Instagram</title>
+  <title>Siga no Instagram</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -44,9 +44,9 @@
   </style>
 </head>
 <body>
-  <h1>Acompanhe nossa jornada durante o intercâmbio</h1>
+  <h1>Acompanhe durante o Intercâmbio:</h1>
   <p>
-    Durante nosso intercâmbio, vocês podem acompanhar os registros e momentos especiais pelos perfis pessoais dos administradores da conta.  
+    Durante nosso intercâmbio, vocês podem acompanhar os registros e momentos especiais pelos perfis pessoais dos administradores da conta.
     Confira e siga para não perder nada:
   </p>
   <ul>
