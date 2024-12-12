@@ -46,7 +46,7 @@
 <body>
   <h1>Acompanhe Durante o Intercâmbio</h1>
   <p>
-    Durante meu intercâmbio, você pode acompanhar as atualizações e momentos especiais pelos perfis dos responsáveis e amigos que estarão administrando a conta.  
+    Durante nosso intercâmbio, vocês podem acompanhar os registros e momentos especiais pelos perfis pessoais dos administradores da conta.  
     Confira e siga para não perder nada:
   </p>
   <ul>
