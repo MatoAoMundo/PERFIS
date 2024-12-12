@@ -44,7 +44,7 @@
   </style>
 </head>
 <body>
-  <h1>Acompanhe Durante o Intercâmbio</h1>
+  <h1>Acompanhe nossa jornada durante o intercâmbio</h1>
   <p>
     Durante nosso intercâmbio, vocês podem acompanhar os registros e momentos especiais pelos perfis pessoais dos administradores da conta.  
     Confira e siga para não perder nada:
