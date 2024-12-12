@@ -1,45 +1,29 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Acompanhe Durante o Intercâmbio</title>
+  <title>Acompanhe no Instagram</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
       color: #333;
+      text-align: center;
       background-color: #f9f9f9;
       margin: 0;
       padding: 20px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      text-align: center;
-    }
-    .container {
-      max-width: 600px;
-      background: #fff;
-      padding: 20px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      border-radius: 10px;
     }
     h1 {
       font-size: 28px;
-      color: #0056b3;
-      margin-bottom: 20px;
-      border-bottom: 2px solid #ddd;
-      padding-bottom: 10px;
+      margin-bottom: 10px;
     }
     p {
       font-size: 16px;
-      line-height: 1.6;
       margin-bottom: 20px;
+      line-height: 1.5;
     }
     ul {
       list-style: none;
       padding: 0;
-      margin: 0;
     }
     li {
       margin: 10px 0;
@@ -60,23 +44,21 @@
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>Acompanhe Durante o Intercâmbio</h1>
-    <p>
-      Durante meu intercâmbio, você pode acompanhar os registros e momentos especiais pelos perfis pessoais dos administradores da conta.  
-      Confira e siga para não perder nada:
-    </p>
-    <ul>
-      <li><a href="https://www.instagram.com/_dah_0_0" target="_blank">Damaris</a></li>
-      <li><a href="https://www.instagram.com/mateus_xavierds" target="_blank">Mateus</a></li>
-      <li><a href="https://www.instagram.com/shayane.ferreira_" target="_blank">Shayane</a></li>
-      <li><a href="https://www.instagram.com/lucaspereirasilva_24" target="_blank">Lucas</a></li>
-      <li><a href="https://www.instagram.com/dhiorgid_" target="_blank">Dhiorgid</a></li>
-      <li><a href="https://www.instagram.com/7vagner" target="_blank">Vagner</a></li>
-    </ul>
-    <footer>
-      Obrigado pelo apoio e por acompanhar essa jornada!
-    </footer>
-  </div>
+  <h1>Acompanhe Durante o Intercâmbio</h1>
+  <p>
+    Durante meu intercâmbio, você pode acompanhar as atualizações e momentos especiais pelos perfis dos responsáveis e amigos que estarão administrando a conta.  
+    Confira e siga para não perder nada:
+  </p>
+  <ul>
+    <li><a href="https://www.instagram.com/_dah_0_0" target="_blank">Damaris</a></li>
+    <li><a href="https://www.instagram.com/mateus_xavierds" target="_blank">Mateus</a></li>
+    <li><a href="https://www.instagram.com/shayane.ferreira_" target="_blank">Shayane</a></li>
+    <li><a href="https://www.instagram.com/lucaspereirasilva_24" target="_blank">Lucas</a></li>
+    <li><a href="https://www.instagram.com/dhiorgid_" target="_blank">Dhiorgid</a></li>
+    <li><a href="https://www.instagram.com/7vagner" target="_blank">Vagner</a></li>
+  </ul>
+  <footer>
+    Obrigado pelo apoio e por acompanhar essa jornada!
+  </footer>
 </body>
 </html>
